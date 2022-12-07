@@ -1,7 +1,7 @@
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
-baseURL: "/"
+baseURL: "https://genuine-cannoli-fdcd6b.netlify.app/"
 title: Kevin
 paginate: 5
 theme: PaperMod
