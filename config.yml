@@ -1,3 +1,6 @@
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
 baseURL: "https://kevinlupera.netlify.app/"
 title: Kevin
 paginate: 5
