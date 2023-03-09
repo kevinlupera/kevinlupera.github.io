@@ -1,16 +1,16 @@
 ---
-title: "My 2st post"
+title: "UEES - Sofware Factory"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+aliases: ["/exprience"]
+tags: ["jobs"]
 author: "Kevin L"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Developer Junior"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -29,8 +29,34 @@ cover:
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/<path_to_repo>/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
 ---
+
+## Role: Developer Junior
+
+## Oct 2018 - Nov 2019 · 1 yr 2
+
+## Country: Ecuador
+
+## Activities
+
+Development of an e-commerce using Elasticsearch for a large multinational company and database-level solutions for a large telecommunications company.
+
+- Development in PHP
+- Front-end HTML CSS Bootstrap
+- Development of Api REST
+- Created search engine for ecommerce
+
+## Skills
+
+- Symfony
+- Oracle
+- PL SQL
+- PHP
+- ElasticSearch
+
+## Principal project
+
+E-commerce for Bosch
+https://www.boschecuador.com/
+
+![Preview](/bosch.png "Tecnova")
