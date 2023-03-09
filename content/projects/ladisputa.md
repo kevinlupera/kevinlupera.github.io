@@ -3,7 +3,7 @@ title: "La Disputa"
 date: 2020-09-15T11:30:03+00:00
 # weight: 1
 aliases: ["/exprience"]
-tags: ["experience"]
+tags: ["project"]
 author: "Kevin L"
 # author: ["Me"] # multiple authors
 showToc: true
