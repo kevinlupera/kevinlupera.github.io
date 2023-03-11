@@ -1,6 +1,6 @@
 ---
 title: "La Disputa"
-date: 2020-09-15T11:30:03+00:00
+date: 2021-09-15T11:30:03+00:00
 # weight: 1
 aliases: ["/exprience"]
 tags: ["project"]
