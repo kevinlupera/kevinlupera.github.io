@@ -3,11 +3,11 @@ title: "Serverless para dummy"
 date: 2022-03-01T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["serverless", "aws"]
 author: "Kevin L"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
