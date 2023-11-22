@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "Optimizing your AWS Lambda function memory settings can improve performance and reduce costs. Use the appropriate amount of memory for your function based on its requirements, and consider using a smaller amount for functions that don't need it. Additionally, use AWS Lambda power tuning to optimize your function's performance, and eliminate unnecessary resources and costs by removing unused functions and optimizing your stack."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
