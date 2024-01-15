@@ -139,9 +139,9 @@ menu:
       name: Projects
       url: /projects/
       weight: 30
-    - identifier: search
-      name: Search
-      url: /search/
+    # - identifier: search
+    #   name: Search
+    #   url: /search/
       weight: 30
     - identifier: experiences
       name: Experience
