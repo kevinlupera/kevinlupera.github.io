@@ -8,7 +8,7 @@ author: "Kevin L"
 showToc: true  
 TocOpen: false
 draft: false
-hidemeta: false
+
 comments: false
 description: "La Disputa is a website that provides a platform to discuss and debate."
 canonicalURL: "https://canonical.url/to/page"
@@ -52,4 +52,4 @@ Developed using the technologies:
 
 Is a website with the traffic of 18 mil user per year
 
-![Analytics](/traffic_la_disputa.png "Analytics")
+![Analytics](./traffic_la_disputa.png "Analytics")

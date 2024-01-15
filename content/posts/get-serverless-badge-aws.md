@@ -8,7 +8,7 @@ author: "Kevin L"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+
 comments: false
 description: "Inicia en el mundo Serverless y certificate GRATIS!"
 canonicalURL: "https://canonical.url/to/page"

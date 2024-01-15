@@ -8,7 +8,7 @@ author: "Kevin L"
 # showToc: true
 # TocOpen: false
 # draft: false
-# hidemeta: false
+# 
 # comments: false
 # description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"

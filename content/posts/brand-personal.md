@@ -6,7 +6,7 @@ author: "Kevin L"
 showToc: true
 TocOpen: false
 draft: false
-hidemeta: false
+
 comments: false
 description: "TLDR: Has que te recuerden y te busquen!"
 canonicalURL: "https://canonical.url/to/page"
