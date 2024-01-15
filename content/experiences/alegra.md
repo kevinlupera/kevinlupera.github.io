@@ -13,7 +13,6 @@ description: "Back-end Developer Senior"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
-summary: true
 disableHLJS: false
 searchHidden: false
 hidenmeta: false
