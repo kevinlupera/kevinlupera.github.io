@@ -8,7 +8,7 @@ author: "Kevin L"
 showToc: true
 TocOpen: false
 draft: false
-summary: true
+# summary: false
 
 comments: false
 # description: "Desc Text."
@@ -16,7 +16,7 @@ canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
+# hideSummary: true
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true

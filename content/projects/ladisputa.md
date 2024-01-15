@@ -6,7 +6,7 @@ aliases: ["/exprience"]
 tags: ["project"]
 author: "Kevin L"
 showToc: true  
-TocOpen: false
+TocOpen: true
 draft: false
 
 comments: false
@@ -15,14 +15,14 @@ canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: true
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+# hideSummary: true
+searchHidden: false
+# ShowReadingTime: true
+# ShowBreadCrumbs: true
+# ShowPostNavLinks: true
+# ShowWordCount: true
+# ShowRssButtonInSectionTermList: true
+# UseHugoToc: true
 cover:
     image: "/la_disputa.png"
     alt: "La disputa" # alt text
