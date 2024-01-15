@@ -1,7 +1,7 @@
 ---
 title: "Alegra"
 date: 2020-09-15T11:30:03+00:00
-# weight: 1
+weight: 1
 aliases: ["/exprience"]
 tags: ["jobs"]
 author: "Kevin L"
@@ -9,13 +9,13 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Back-end Developer Senior"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
+summary: true
 disableHLJS: false
-hideSummary: false
 searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -24,20 +24,30 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "./alegra.jpeg" # image path/url
+    alt: "alegra" # alt text
+    # caption: "" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
-## Role: Back-end Developer Senior
+## Alegra
 
-## Dec 2021 - Present
+Alegra is the cloud platform with solutions to ☝ manage your business, e-invoice and sell online.
 
-## Country: Colombia
+### Role: 
 
-## Activities
+Back-end Developer Senior
+
+### Date
+
+Dec 2021 - Present
+
+### Country:
+
+Colombia
+
+### Activities
 
 Migrate PHP APIs to a microservices architecture. Working with SCRUM management methodology and TDD development methodology.
 
@@ -53,7 +63,7 @@ Migrate PHP APIs to a microservices architecture. Working with SCRUM management 
 - AWS lambda, CloudWatch, SNS, SQS, RDS, RDS Proxy, CodeCommit, CodePipeline 
 - Frontend functionalities development using VueJs
 
-## Skills
+### Skills
 
 - Amazon Relational Database Service (RDS)
 - AWS CodeBuild

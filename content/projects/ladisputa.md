@@ -1,23 +1,22 @@
 ---
 title: "La Disputa"
-date: 2021-09-15T11:30:03+00:00
-# weight: 1
+date: "2020-09-15T11:30:03+00:00"
+weight: 1
 aliases: ["/exprience"]
 tags: ["project"]
 author: "Kevin L"
-# author: ["Me"] # multiple authors
-showToc: true
+showToc: true  
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "La Disputa is a website that provides a platform to discuss and debate."
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
-hideSummary: false
-searchHidden: false
+hideSummary: true
+searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -25,29 +24,32 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "/la_disputa.png"
+    alt: "La disputa" # alt text
+    caption: "Blog Ecuador" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
+* [Preview](https://ladisputa.org/)
 
-https://ladisputa.org/
+La Disputa is a website that provides a platform to discuss and debate current affairs and politics from a progressive perspective. The website is an initiative of the non-profit organization "La Disputa", which seeks to encourage citizen participation and promote discussion and dialogue on important issues.
 
-La Disputa es un sitio web que ofrece una plataforma para discutir y debatir sobre temas de actualidad y política desde una perspectiva progresista. El sitio web es una iniciativa de la organización sin fines de lucro "La Disputa", que busca fomentar la participación ciudadana y promover la discusión y el diálogo sobre temas importantes.
+By logging on to the website, users can find a variety of articles and essays written by experts on different topics, from politics and economics to culture and society. The articles are organized into categories and tags for easy searching and site navigation.
 
-Al ingresar al sitio web, los usuarios pueden encontrar una variedad de artículos y ensayos escritos por expertos en diferentes temas, desde política y economía hasta cultura y sociedad. Los artículos están organizados en categorías y etiquetas para facilitar la búsqueda y la navegación del sitio.
+In addition to articles, La Disputa also offers a podcast section, where users can listen to discussions and interviews on relevant topics. There is also a video section that features documentaries and other audiovisual content related to politics and society.
 
-Además de los artículos, La Disputa también ofrece una sección de podcast, donde los usuarios pueden escuchar discusiones y entrevistas sobre temas relevantes. También hay una sección de videos que presenta documentales y otros contenidos audiovisuales relacionados con la política y la sociedad.
+An interesting feature of La Disputa is its "Debates" section, where users can participate in online discussions and debates on specific topics. The debates are moderated by experts on the topic and an atmosphere of respect and constructive dialogue is fostered.
 
-Una característica interesante de La Disputa es su sección de "Debates", donde los usuarios pueden participar en discusiones y debates en línea sobre temas específicos. Los debates están moderados por expertos en el tema y se fomenta un ambiente de respeto y diálogo constructivo.
+In terms of website design and functionality, La Disputa has a clean and user-friendly interface. Articles and other content are well organized and presented in a clear and concise manner. In addition, the website loads quickly and is easy to navigate from both a desktop computer and mobile devices.
 
-En cuanto al diseño y la funcionalidad del sitio web, La Disputa cuenta con una interfaz limpia y fácil de usar. Los artículos y otros contenidos están bien organizados y presentados de forma clara y concisa. Además, el sitio web se carga rápidamente y es fácil de navegar tanto desde una computadora de escritorio como desde dispositivos móviles.
-
-En resumen, La Disputa es un sitio web interesante y útil para aquellos interesados en discutir y debatir sobre temas de actualidad y política desde una perspectiva progresista. Con una amplia variedad de artículos, podcasts, videos y debates en línea, el sitio web ofrece una plataforma completa para la discusión y el diálogo.
+In summary, La Disputa is an interesting and useful website for those interested in discussing and debating current affairs and politics from a progressive perspective. With a wide variety of articles, podcasts, videos and online debates, the website offers a comprehensive platform for discussion and dialogue.
 
 
-Desarrollado usando las tecnologias:
+Developed using the technologies:
 - Worpress CMS
-- OneSignal para notificaciones push
+- OneSignal for push notifications
+
+Is a website with the traffic of 18 mil user per year
+
+![Analytics](/traffic_la_disputa.png "Analytics")

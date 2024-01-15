@@ -41,7 +41,7 @@ params:
   disableScrollToTop: false
   comments: true
   hidemeta: false
-  hideSummary: false
+  hideSummary: true
   showtoc: true
   tocopen: true
 
@@ -63,19 +63,22 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Kevin Lupera
-    subtitle: "I'm **Full Stack developer** finish program at the **University Hemisferios**, Ecuador 🇪🇨. 
-      Backend engineer 🧑🏻💻 at **[Alegra](http://www.alegra.com/)**, a SaaS based in Colombia 🇨🇴. 
+    subtitle: "I'm **Engineer software** at the **University Guayaquil**, Ecuador 🇪🇨. 
+      Backend engineer 👨🏻‍💻 at **[Alegra](http://www.alegra.com/)**, a SaaS based in Colombia 🇨🇴. 
       Computer Systems Engineer in Ecuador 🇪🇨 at the **University of Guayaquil**. 
-      I'm passionate about experimenting with **DIY projects** and interested in cloud computing."
+      I'm passionate about experimenting with **DIY projects** and interested in cloud computing.
+      In my other life I think I was a farmer because I really like it and I'm good at it.👨‍🌾"
     imageUrl: 'profile.jpeg'
     imageWidth: 120
     imageHeight: 120
     imageTitle: Profile
     buttons:
+      - name: Projects
+        url: projects
+      - name: Experiences
+        url: experiences
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -144,20 +147,20 @@ menu:
       name: Experience
       url: /experiences/
       weight: 30
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    # - identifier: achievements
+    #   name: Achievements
+    #   url: /achievements/
       weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
 
 outputs:
   home:
