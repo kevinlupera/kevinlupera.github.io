@@ -24,18 +24,24 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "miclaro_citas.png" # image path/url
+    alt: "Mi Claro Citas" # alt text
+    # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
-## Role: Tech Leader
+## Role:
 
-## Nov 2019 - Mar 2021 · 1 yr 5 mos
+Tech Leader
 
-## Country: Ecuador
+## Date
+
+Nov 2019 - Mar 2021 · 1 yr 5 mos
+
+## Country:
+
+Ecuador
 
 ## Activities
 
@@ -45,6 +51,12 @@ Developer of the website of Mi Claro and other projects of the telecommunication
 - Front-end HTML CSS Bootstrap
 - Development of Api REST
 - Generated reports
+
+## Principal project
+
+Appointment scheduling
+
+### [Preview](https://www.miclaro.com.ec/citas/)
 
 ## Skills
 

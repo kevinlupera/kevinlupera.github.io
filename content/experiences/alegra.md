@@ -72,3 +72,11 @@ Migrate PHP APIs to a microservices architecture. Working with SCRUM management 
 - AWS Lambda
 - TypeScript
 - Amazon Web Services (AWS)
+
+
+## Principal project
+
+Alegra Contabilidad
+https://app.alegra.com
+
+![Preview](/alegra.jpeg "Alegra")

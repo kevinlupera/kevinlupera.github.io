@@ -24,18 +24,22 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "/cpaga.png" # image path/url
+    alt: "CPAGA" # alt text
+    # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
-## Role: Tech Leader
+## Role: 
 
-## Mar 2021 - Nov 2021 · 9 mos
+Tech Leader
 
-## Country: Ecuador
+## Date:
+Mar 2021 - Nov 2021 · 9 mos
+
+## Country: 
+Ecuador
 
 ## Activities
 

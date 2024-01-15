@@ -31,8 +31,6 @@ cover:
     hidden: false # only hide on current single page
 ---
 
-* [Preview](https://ladisputa.org/)
-
 La Disputa is a website that provides a platform to discuss and debate current affairs and politics from a progressive perspective. The website is an initiative of the non-profit organization "La Disputa", which seeks to encourage citizen participation and promote discussion and dialogue on important issues.
 
 By logging on to the website, users can find a variety of articles and essays written by experts on different topics, from politics and economics to culture and society. The articles are organized into categories and tags for easy searching and site navigation.
@@ -45,10 +43,16 @@ In terms of website design and functionality, La Disputa has a clean and user-fr
 
 In summary, La Disputa is an interesting and useful website for those interested in discussing and debating current affairs and politics from a progressive perspective. With a wide variety of articles, podcasts, videos and online debates, the website offers a comprehensive platform for discussion and dialogue.
 
+### [Preview](https://ladisputa.org/)
+
+### Stack:
 
 Developed using the technologies:
+
 - Worpress CMS
 - OneSignal for push notifications
+
+### Analaytics
 
 Is a website with the traffic of 18 mil user per year
 

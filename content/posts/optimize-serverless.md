@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/optimize_serverless.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -75,6 +75,8 @@ A very important fact is that the 128 MB configuration has a similar cost to the
 
 More memory does not always mean higher costs
 
+![table_cost](/table_cost.png "Table cost")
+
 ![2_step](/2_step_power_tuning.png "Step 2")
 
 ### Usage guide
@@ -107,7 +109,7 @@ Execution begins:
 
 ![6_step](/6_step_power_tuning.png "Step 6")
 
-Tenemos el siguiente resultado el cual nos brinda información muy útil para realizar ajustes en nuestra lambda [link](https://lambda-power-tuning.show/#gAAAAQACAAQACMAL;AACJQ6uqGUMAAIhBAAA4QVVVPUEAAEBB;ERP6NIWNDDXGP/gzEzwvNBM8rzQesAA1)
+We have the following result which gives us very useful information to make adjustments in our lambda [link](https://lambda-power-tuning.show/#gAAAAQACAAQACMAL;AACJQ6uqGUMAAIhBAAA4QVVVPUEAAEBB;ERP6NIWNDDXGP/gzEzwvNBM8rzQesAA1)
 
 ![result_power_tuning](/result_power_tuning.png "result_power_tuning")
 

@@ -24,18 +24,30 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "bosch.png" # image path/url
+    alt: "E-commerce for Bosch" # alt text
+    # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 ---
 
-## Role: Developer Junior
+## Role:
 
-## Oct 2018 - Nov 2019 · 1 yr 2
+Developer Junior
 
-## Country: Ecuador
+## Date:
+
+Oct 2018 - Nov 2019 · 1 yr 2
+
+## Country:
+
+Ecuador
+
+## Principal project
+
+e-commerce fot Bosch
+
+![Preview](/bosch.png "Tecnova")
 
 ## Activities
 
@@ -53,10 +65,3 @@ Development of an e-commerce using Elasticsearch for a large multinational compa
 - PL SQL
 - PHP
 - ElasticSearch
-
-## Principal project
-
-E-commerce for Bosch
-https://www.boschecuador.com/
-
-![Preview](/bosch.png "Tecnova")
