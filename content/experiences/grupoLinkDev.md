@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "miclaro_citas.png" # image path/url
+    image: "miclaro_citas.webp" # image path/url
     alt: "Mi Claro Citas" # alt text
     # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

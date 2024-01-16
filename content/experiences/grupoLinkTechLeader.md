@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/cpaga.png" # image path/url
+    image: "/cpaga.webp" # image path/url
     alt: "CPAGA" # alt text
     # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -68,4 +68,4 @@ Define the requirements together with the client, the tasks and implementation o
 Payment orchestrator 
 https://claro.cpaga.com.ec/
 
-![Preview](/cpaga.png "CPAGA")
+![Preview](/cpaga.webp "CPAGA")

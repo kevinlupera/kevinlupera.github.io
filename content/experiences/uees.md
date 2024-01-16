@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "bosch.png" # image path/url
+    image: "bosch.webp" # image path/url
     alt: "E-commerce for Bosch" # alt text
     # caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -47,7 +47,7 @@ Ecuador
 
 e-commerce fot Bosch
 
-![Preview](/bosch.png "Tecnova")
+![Preview](/bosch.webp "Tecnova")
 
 ## Activities
 

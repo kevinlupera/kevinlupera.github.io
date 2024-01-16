@@ -24,7 +24,7 @@ searchHidden: false
 # ShowRssButtonInSectionTermList: true
 # UseHugoToc: true
 cover:
-    image: "/la_disputa.png"
+    image: "/la_disputa.webp"
     alt: "La disputa" # alt text
     caption: "Blog Ecuador" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -56,4 +56,4 @@ Developed using the technologies:
 
 Is a website with the traffic of 18 mil user per year
 
-![Analytics](./traffic_la_disputa.png "Analytics")
+![Analytics](./traffic_la_disputa.webp "Analytics")

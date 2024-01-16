@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/optimize_serverless.png" # image path/url
+    image: "/optimize_serverless.webp" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -69,26 +69,26 @@ Measuring cost efficient memory size is one of the very easy and useful optimiza
 By default using frameworks like serverless framework or SAM you can granularly define the amount of memory to each lambda but it is good how much memory and vCPU (Virtual CPUs) provide better response times and with it better.
 We have a lambda that performs a read operation on a DB and brings 50 records for which we have a comparative table with the different memory configurations, response times and cost.
 
-![1_step](/1_step_power_tuning.png "Step 1")
+![1_step](/1_step_power_tuning.webp "Step 1")
 
 A very important fact is that the 128 MB configuration has a similar cost to the 1536 MB option but the time difference is significant 10 to 1.
 
 More memory does not always mean higher costs
 
-![table_cost](/table_cost.png "Table cost")
+![table_cost](/table_cost.webp "Table cost")
 
-![2_step](/2_step_power_tuning.png "Step 2")
+![2_step](/2_step_power_tuning.webp "Step 2")
 
 ### Usage guide
 
 Choose the option that involves the least effort option #1. Open the following [link](https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:451282441545:applications~aws-lambda-power-tuning) while logged into the AWS account.
 
 In the following template you can configure the range of RAM memory allowed for the evaluation
-![3_step](/3_step_power_tuning.png "Step 3")
+![3_step](/3_step_power_tuning.webp "Step 3")
 Una vez termine el proceso de creación se debe dar clic en el link powerTuningStateMachine
 
-![4_step](/4_step_power_tuning.png "Step 4")
-![5_step](/5_step_power_tuning.png "Step 5")
+![4_step](/4_step_power_tuning.webp "Step 4")
+![5_step](/5_step_power_tuning.webp "Step 5")
 
 Enter the json with the information of the lambda to be tested
 
@@ -105,13 +105,13 @@ Enter the json with the information of the lambda to be tested
 
 Execution begins:
 
-![5_step](/5_step_power_tuning.png "Step 5")
+![5_step](/5_step_power_tuning.webp "Step 5")
 
-![6_step](/6_step_power_tuning.png "Step 6")
+![6_step](/6_step_power_tuning.webp "Step 6")
 
 We have the following result which gives us very useful information to make adjustments in our lambda [link](https://lambda-power-tuning.show/#gAAAAQACAAQACMAL;AACJQ6uqGUMAAIhBAAA4QVVVPUEAAEBB;ERP6NIWNDDXGP/gzEzwvNBM8rzQesAA1)
 
-![result_power_tuning](/result_power_tuning.png "result_power_tuning")
+![result_power_tuning](/result_power_tuning.webp "result_power_tuning")
 
 ## Serverless optimizations 
 
