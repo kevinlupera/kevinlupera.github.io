@@ -1,7 +1,7 @@
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
-baseURL: "https://blog-kevinlupera.netlify.app/"
+baseURL: "https://blog-kevinlupera.github.io/"
 title: Kevin
 paginate: 5
 theme: PaperMod
