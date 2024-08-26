@@ -38,4 +38,4 @@ En general, es un buen programa (plan de aprendizaje y evaluación) para compren
 
 ## Artículos relacionados
 
-Puede interesarte un articulo [Serverless para dummy](https://blog-kevinlupera.github.io/posts/serverless-for-dummy/)
+Puede interesarte un articulo [Serverless para dummy](https://kevinlupera.github.io/posts/serverless-for-dummy/)
