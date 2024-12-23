@@ -3,7 +3,6 @@ module:
   - path: github.com/adityatelange/hugo-PaperMod
 baseURL: "https://kevinlupera.github.io/"
 title: Kevin
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -11,13 +10,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-MCDJ6JMRYD
 
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
+  social: true
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kevin
   description: "Kevin Dev"
