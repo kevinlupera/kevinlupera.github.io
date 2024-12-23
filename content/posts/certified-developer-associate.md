@@ -22,7 +22,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "/developer-associate.webp" # image path/url
+    image: "developer-associate.webp"
     alt: "Developer" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -31,7 +31,7 @@ cover:
 
 ¿Estás listo para llevar tus habilidades de desarrollo al siguiente nivel y convertirte en un experto en la nube de AWS? La certificación AWS Certified Developer - Associate es un excelente camino para validar tus conocimientos y habilidades en el desarrollo, despliegue y depuración de aplicaciones en la plataforma de Amazon Web Services. En este post, te compartiré algunos consejos prácticos y estrategias que me ayudaron a obtener esta certificación, para que tú también puedas alcanzar este objetivo.
 
-![](/certified-developer-associate.md "developer")
+![aaaaaaaazzzzzzz](/developer-associate.webp "developer")
 
 ## ¿Qué evalúa la certificación?
 
